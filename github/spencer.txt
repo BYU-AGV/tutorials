@@ -1,0 +1,3 @@
+the optimist says "the glass is half full"
+the pessimist says "the glass is half-empty"
+the engineer says "the glass is twice as big as it needs to be"
