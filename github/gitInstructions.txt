@@ -1,0 +1,23 @@
+git status // checks the master branch and current branch for up to dateness
+git fetch // downloads master branch but doesn't implement
+git pull // downloads and implements
+git checkout -b <branch name> makes new branch and makes it your current branch
+git branch <branch name> makes new branch
+git checkout <branch name> changes branches 
+git add <file name> adds to the git queue that will be commited
+git add . adds everything that you changed (everything in red with git status)
+git commit -m "message" makes a commit with everything in the add and adds a message
+git push // pushes up to the repo
+git pull // grabs everything from the repo
+vim <filename> // opens text editor for file
+in vim:
+	i // insert mode
+	k j // esc
+	esc // esc
+	v // visual mode (probs won't use)
+	:w // writes
+	:q // quits
+	cntrl Z // backgrounds
+	fg // foregrounds
+	:tabe <filename> // opens new tab for file
+	:vsplit <filename> / #splitscreene
